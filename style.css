@@ -1,0 +1,46 @@
+body
+{
+    background-color: #FFB5B5;
+}
+a
+{
+    margin-left: 580px;
+}
+.tittle
+{
+    text-align: center;
+    color: #FF7272;
+    font-size:125px;
+    font-weight: 500;
+    margin-top: 0px;
+    font-family: 'Lobster', cursive;
+    margin-bottom: 60px;
+}
+.middle-box
+{
+    padding: 3% 15%;
+}
+h1
+{
+    margin-bottom: 30px;
+    font-family: 'Lobster', cursive;
+}
+h3
+{
+    color: #630606;
+    font-weight: 500;
+    font-family: 'Lobster', cursive;
+}
+
+.dice_pic
+{
+    text-align: center;
+}
+.navbar
+{
+    background-color: #FF7272;
+}
+.container-fluid
+{
+    padding: 3% 5% 4%;
+}
